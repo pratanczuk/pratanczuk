@@ -4,6 +4,7 @@
 - The Art of Designing Embedded Systems by Jack Gansle
 - UML Distilled by Martin Fowler
 - The 4+1 View Model of Architecture by PHILIPPE B . KRUCHTEN, R
+- The C4 model for visualising software architecture by Simon Brown
 - C++ Move Semantics by Josuttis, Nicol
 - Effective C++ 14/17 by Scott Mayers
 - Opus Magnum c++14/17 by Jerzy Grebosz
