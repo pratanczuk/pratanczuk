@@ -14,15 +14,21 @@
 - Automotive SPICE Essencials by KUGLER MAAG CIE
 - Automotive SPICE Pocket Guide by KUGLER MAAG CIE
 - Agile in Automotive Scrum Pocket guide by KUGLER MAAG CIE
+- The Linux Kernel Module Programming Guide - by Peter Jay Salzman,...
 - The Art of Electronics by Paul Horowitz, Winfield Hill
 
 ### Software Development Processes and Formal Requirements ✨
+I specialize in optimizing Software Development Processes to enhance team efficiency and product quality. With extensive experience in Agile methodologies like Scrum and Kanban, I implement best practices that streamline development workflows and foster collaborative environments.
 
-#### Automotive SPICE
+I am well-versed in industry standards such as Automotive SPICE, CMMI (Capability Maturity Model Integration), and FDA 21 CFR Part 11 regulations. My familiarity with these frameworks and regulations enables me to ensure compliance and maintain high-quality standards in highly regulated industries like automotive and healthcare.
 
-#### CMMI SPICE
+My expertise in Formal Requirements involves precise specification and rigorous documentation techniques. By utilizing modeling languages such as UML and engaging in thorough requirements engineering, I ensure that complex user needs are translated into clear, actionable, and testable specifications. This focus helps bridge the gap between business objectives and technical implementation, resulting in software solutions that meet or exceed client expectations.
 
-#### FDA's 21 CFR Part 11 and EU’s Annex 11
+I'm passionate about continuous improvement and am committed to leveraging industry standards to optimize the entire software development lifecycle.
+#### Favorit topics:
+#### Automotive SPICE:
+#### CMMI SPICE:
+#### FDA's 21 CFR Part 11 and EU’s Annex 11:
 
 ### How to reach me: 📫 
 #### LinkedIN:
