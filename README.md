@@ -17,17 +17,17 @@
 
 ### Software Development Processes and Formal Requirements ✨
 
-## Automotive SPICE
+#### Automotive SPICE
 
-## CMMI SPICE
+#### CMMI SPICE
 
-## FDA's 21 CFR Part 11 and EU’s Annex 11
+#### FDA's 21 CFR Part 11 and EU’s Annex 11
 
 ### How to reach me: 📫 
-# LinkedIN:
+#### LinkedIN:
 https://linkerin.com/pawel-ratanczuk
 
-# My old Blog:
+#### My old Blog:
 https://my-embedded.blogspot.com/
 
 
