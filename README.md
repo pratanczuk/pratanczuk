@@ -24,8 +24,11 @@
 ## FDA's 21 CFR Part 11 and EU’s Annex 11
 
 ### How to reach me: 📫 
-
+# LinkedIN:
 https://linkerin.com/pawel-ratanczuk
+
+# My old Blog:
+https://my-embedded.blogspot.com/
 
 
 
