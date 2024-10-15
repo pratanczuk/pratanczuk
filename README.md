@@ -1,4 +1,93 @@
-## Hi there 👋
+
+## Welcome to My GitHub Profile! 👋
+
+Hello! I'm a born engineer and architect with over **25 years of experience** in embedded systems across the **telecommunication**, **automotive**, and **medical** industries. I have proven capabilities in **end-to-end software development**, defining workflows, handling security, maintenance, and setting up project build environments. My expertise spans **embedded development**, **production tests**, **robotics**, **IoT**, **networks**, and **cloud solutions**. I'm accustomed to large-scale deployments and have the ability to lead and manage cross-functional teams.
+
+I'm passionate about innovation in multidisciplinary environments that include software, electronics, and mechanics. I'm also a fan of “_The Art of Designing Embedded Systems_” by **Jack Ganssle**.
+
+### Technical Competencies
+
+-   **Programming Languages**
+    
+    -   **Proficient**: UML, C/C++, Linux Programming, SQL, Shell Script
+    -   **Prior Experience**: LabVIEW, TestStand, C#, PowerShell, PHP, Python, HTML, JavaScript
+-   **Protocols**
+    
+    -   **Networking**: TCP/IP, UDP, 802.3, MQTT, SIP, RTP, GPON, S7
+    -   **Wireless**: UHF RFID, Bluetooth, Wi-Fi
+    -   **Hardware**: I2C, SPI, RS232, USB
+-   **Development / Build Environment**
+    
+    -   Linux Console, VSCode, Visual Studio Online, Eclipse
+-   **Operating Systems / Bootloaders**
+    
+    -   Real-time Linux, Ubuntu, Windows, VxWorks, OpenWRT, U-Boot
+-   **Tools**
+    
+    -   **Design**: Draw.io, PlantUML
+    -   **Debugging**: GDB, Objdump, Valgrind, Strace, Ltrace
+    -   **Testing**: Selenium, Catch2
+    -   **Packet Analysis**: Tcpdump, Wireshark
+    -   **Project Management**: JIRA, GitLab, VSO
+    -   **Version Control Systems**: Git, SVN, ClearCase, Perforce
+    -   **Remote Access**: VNC, TeamViewer, SSH, Telnet, Remote Desktop
+    -   **Compilation**: GCC, Make, CMake
+    -   **PCB Design**: KiCad, OpenSCAD
+    -   **Antenna Testing**: VNA (Vector Network Analyzer)
+-   **Platforms**
+    
+    -   **Architectures**: x86, ARM, PowerPC, MIPS
+    -   **Targets**: ESP32, Atmega, NRF51/52
+-   **Cloud / Virtualization**
+    
+    -   **Cloud**: AWS
+    -   **Virtualization**: QEMU, VirtManager, VMWare, Docker
+
+### Domain-Specific Skills
+
+-   Wi-Fi tracking and measurement, Bluetooth channel management
+-   Linux Kernel & Internals, IPTables, L2/L3 network stack
+-   BSP (Linux & U-Boot), Networking tools, Linux servers administration
+-   Good understanding of mechanical design and automation, PLC programming
+-   Experience with large-scale integration of PLM, ERP, and MES systems with R&D and production environments
+-   **Processes**: CMMI, SPICE
+
+### Capabilities
+
+-   **NPI Activities**: Competitive product analysis, requirement drafting, R&D prototyping
+-   **Project Management**: Experience leading company-critical projects
+-   **3D Printing Expertise**: Over 12 years of experience; capable of building 3D printers
+-   **Architecture Design**: Ability to analyze requirements and design efficient architectures using C4 , 4+1 Model
+-   **AWS Deployment**: Experience with AWS and VM-based deployments
+-   **Electronics**: Proficient in designing PCBs and soldering small components
+-   **RFID Antenna Design**: Capable of designing and testing RFID UHF antennas
+-   **Analytical Skills**: Strong analytical, logical, and problem-solving abilities
+-   **Leadership**: Excellent leadership qualities, team management, task management, and customer relationship skills
+-   **Personal Traits**: Dedicated, focused, adaptable, reliable, and responsible
+
+### What I Do
+
+-   **System & Network Administration**
+    
+    -   **Freelancer**
+        -   Migration to **AWS services**
+        -   **Linux servers** administration
+        -   **Web hosting**
+        -   Developing network architecture, setting up, and maintaining services and hardware
+        -   Setting up **CI/CD infrastructure**
+-   **Automotive, Medical, Manufacturing and Automation**
+    
+    -   **Projects** 
+        -   Acted as architect, designer, and implementer of software and hardware solutions
+        -   Wrote **PLC software** and drivers for RFID readers using **S7**, **MQTT**, and **RS232** communication layers (_C, C#_, Eclipse, Visual Studio)
+        -   Designed, tested, and manufactured **RFID UHF antennas** (_KiCad_, VNA)
+        -   Developed software for **mass production testing** (_C++_, Arduino, **I2C**, **SPI**)
+        -   Designed and developed a **WIP system** integrating 2D code scanners with **ERP** and **MES** systems (_Ethernet_, C#, MSSQL)
+        -   Implemented an **OpenTherm controller** (_C++_, Arduino, MQTT, OTA)
+        -   Created an automated inventory system using **Zebex handhelds** (_VBA_, SQL)
+        -   Developed simulators for automated system components (laser markers, actuators, barcode readers, RFID readers) using **RS232**, **Ethernet**, **LabVIEW**, MQTT
+        -   Developed automated tests for web applications (_Selenium_, Test Automation, **REST API**, Visual Studio)
+        -   Integrated **Tanita smart scales** with web applications (_WebSockets_, RS232)
 
 ### My Favorite Books 🌱
 - The Art of Designing Embedded Systems by Jack Gansle
