@@ -119,7 +119,10 @@ I'm passionate about continuous improvement and am committed to leveraging indus
 #### CMMI SPICE:
 #### FDA's 21 CFR Part 11 and EU’s Annex 11:
 
-### How to reach me: 📫 
+### Let's Connect!📫 
+
+Feel free to explore my repositories to see some of the projects I've worked on. I'm always open to collaboration and eager to share knowledge.
+
 #### LinkedIN:
 https://linkerin.com/pawel-ratanczuk
 
