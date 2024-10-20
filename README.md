@@ -114,7 +114,7 @@ I am well-versed in industry standards such as Automotive SPICE, CMMI (Capabilit
 My expertise in Formal Requirements involves precise specification and rigorous documentation techniques. By utilizing modeling languages such as UML and engaging in thorough requirements engineering, I ensure that complex user needs are translated into clear, actionable, and testable specifications. This focus helps bridge the gap between business objectives and technical implementation, resulting in software solutions that meet or exceed client expectations.
 
 I'm passionate about continuous improvement and am committed to leveraging industry standards to optimize the entire software development lifecycle.
-#### Favorit topics:
+#### Favorite topics:
 #### Automotive SPICE:
 #### CMMI SPICE:
 #### FDA's 21 CFR Part 11 and EU’s Annex 11:
